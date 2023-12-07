@@ -1,0 +1,1 @@
+const s=[{chainId:250,address:"0x0000000000000000000000000000000000000000",decimals:18,name:"FTM",symbol:"FTM",swap:!0},{chainId:250,address:"0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",decimals:18,name:"Wrapped FTM",symbol:"WFTM",swap:!0}],e={tokens:s};export{e as t};
