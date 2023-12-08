@@ -81,7 +81,7 @@ export default defineNuxtConfig({
       marketplacePostNftItemUrl: "https://paintswap.finance/marketplace/fantom/assets/0x06A7Ab7Bb68b0ad6eB7688C5781E60BE6AFc658d/", // url (append nft id to it)
       marketplaceNftCollectionBaseUrl: "https://paintswap.finance/marketplace/fantom/assets/", // url (append nft address to it)
       newsletterLink: "",
-      nftDefaultRatio: 1, // default ratio for the NFT price bonding curve
+      nftDefaultRatio: 666, // default ratio for the NFT price bonding curve
       nftLaunchpadBondingAddress: "0x3Fa0EaC3058828Cc4BA97F51A33597C695bF6F9e", // NFT launchpad with bonding curve contract address
       nftLaunchpadLatestItems: 8, // number of latest NFTs to show in the NFT launchpad
       nftOrbisContext: "kjzl6cwe1jw1468axu4t63a3iwog1r2umrrjc2pffczgigjfmk6nbuullfeuw7s", // Orbis context for NFT collection pages
