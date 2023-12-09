@@ -99,20 +99,20 @@ export default defineNuxtConfig({
       orbisContext: "kjzl6cwe1jw1468axu4t63a3iwog1r2umrrjc2pffczgigjfmk6nbuullfeuw7s", // production context
       orbisTest: false, // if true, test context will be used instead of the production one
       orbisTestContext: "kjzl6cwe1jw145tfqv2eqv8tiz6puo27meyz4smz40atppuc13tulqca87k35z2", // test context
-      previewImage: "/img/cover.png",
-      previewImageAirdrop: "/img/cover-airdrop.png",
-      previewImageNftCollection: "/img/cover-nft-collection.png",
-      previewImageNftCreate: "/img/cover-nft-create.png",
-      previewImageNftLaunchpad: "/img/cover-nft-launchpad.png",
-      previewImagePost: "/img/cover-post.png",
-      previewImagePostNft: "/img/cover-post-nft.png",
-      previewImageProfile: "/img/cover-profile.png",
-      previewImageStake: "/img/cover-stake.png",
+      previewImage: "/img/cover.svg",
+      previewImageAirdrop: "/img/cover-airdrop.svg",
+      previewImageNftCollection: "/img/cover-nft-collection.svg",
+      previewImageNftCreate: "/img/cover-nft-create.svg",
+      previewImageNftLaunchpad: "/img/cover-nft-launchpad.svg",
+      previewImagePost: "/img/cover-post.svg",
+      previewImagePostNft: "/img/cover-post-nft.svg",
+      previewImageProfile: "/img/cover-profile.svg",
+      previewImageStake: "/img/cover-stake.svg",
       profileMintedPostIdsMax: 36, // max number of minted post ids to show in the profile page
       projectMetadataTitle: "Always Liquid | Fantom NFT marketplace with always liquid NFTs",
       projectName: "Always Liquid",
-      projectDescription: "NFT marketplace on the Fantom where NFTs are always liquid!",
-      projectTwitter: "https://twitter.com/iggysocial",
+      projectDescription: "NFT marketplace on the Fantom network where NFTs are always liquid!",
+      projectTwitter: "https://twitter.com/fantomnamesorg",
       projectUrl: "https://fantom.alwaysliquid.com", // without trailing slash!
       punkMinterAddress: "0x7Df67B2ef4eEDf49Fc53Bb6E94e90e9546FC6c6B", // punk domain minter contract address
       punkNumberOfPrices: 5, // number of different prices (based on domain length), usually 1 (price()) or 5 (price1char() - price5char())
