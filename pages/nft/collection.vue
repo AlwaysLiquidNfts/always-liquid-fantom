@@ -107,8 +107,8 @@
             </p>
 
             <p class="me-4">
-              <i class="bi bi-box-arrow-up-right me-2"></i>
-              <a :href="$config.marketplaceNftCollectionBaseUrl+cAddress" target="_blank" style="text-decoration: none;">
+              <i class="bi bi-box-arrow-up-right me-1"></i>
+              <a :href="$config.marketplaceNftCollectionBaseUrl+cAddress+'?module=NFTs'" target="_blank" style="text-decoration: none;">
                 See on NFT marketplace
               </a>
             </p>
