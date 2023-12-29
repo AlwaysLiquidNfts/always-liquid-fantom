@@ -159,14 +159,20 @@
             <ul class="dropdown-menu">
 
               <li class="pt-1 pb-1" @click="closeLeftSidebar">
-                <a class="dropdown-item" href="https://scroll.alwaysliquid.com" target="_blank">
-                  Scroll <small><i class="bi bi-box-arrow-up-right ms-1"></i></small>
+                <a class="dropdown-item" href="https://arbi.alwaysliquid.com" target="_blank">
+                  Arbitrum <small><i class="bi bi-box-arrow-up-right ms-1"></i></small>
                 </a>
               </li>
 
               <li class="pt-1 pb-1" @click="closeLeftSidebar">
-                <a class="dropdown-item" href="https://arbi.alwaysliquid.com" target="_blank">
-                  Arbitrum <small><i class="bi bi-box-arrow-up-right ms-1"></i></small>
+                <a class="dropdown-item" href="https://linea.alwaysliquid.com" target="_blank">
+                  Linea <small><i class="bi bi-box-arrow-up-right ms-1"></i></small>
+                </a>
+              </li>
+
+              <li class="pt-1 pb-1" @click="closeLeftSidebar">
+                <a class="dropdown-item" href="https://scroll.alwaysliquid.com" target="_blank">
+                  Scroll <small><i class="bi bi-box-arrow-up-right ms-1"></i></small>
                 </a>
               </li>
 
